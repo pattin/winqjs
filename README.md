@@ -1,5 +1,5 @@
  # winqjs是什么
- winqjs是一个很小的js引擎，基于quickjs基础上改造支持微软的visual studio（后文使用vs表述）进行开发、调试。
+ winqjs是一个很小的js引擎，基于quickjs基础上改造支持微软的visual studio（后文使用vs表述）进行开发、调试。可以认为winqjs就是for msvc,for windows的quickjs。
  目前winqjs基于quickjs的2020年7月05日版本基础上开发。
  
 # winqjs有什么用
